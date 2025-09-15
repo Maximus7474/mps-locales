@@ -1,0 +1,73 @@
+{
+    "UI": {
+        "NEW_TICKET": {
+            "TITLE": "Open a new Ticket",
+            "DESCRIPTION": "Please specify the details regarding the opening of your ticket.",
+            "SUBJECT": {
+                "TITLE": "Subject",
+                "PLACEHOLDER": "A descriptive title"
+            },
+            "TYPE": {
+                "TITLE": "Type",
+                "PLACEHOLDER": "Select a report type"
+            },
+            "MESSAGE": {
+                "TITLE": "Message:",
+                "PLACEHOLDER": "Describe what occured or what you need help with"
+            },
+            "OPEN_TICKET": "Open the ticket"
+        },
+
+        "TICKET_STAFF_MENU": {
+
+            "CURRENT_TICKET_COUNT": "Current Tickets: {count}",
+
+            "STATUS": "Ticket Status: {status}",
+            "NAME_FORMAT": "({id}) - {name}",
+            "LABELS": {
+                "TYPE": "Type:",
+                "STATUS": "Status:",
+                "OWNER": "Owner:",
+                "MESSAGE_COUNT": "Messages:",
+                "OPENED": "Opened:",
+                "LAST_MESSAGE": "Last Message:"
+            },
+            "VIEW_TICKET": "View Ticket",
+
+            "THEME": {
+                "SELECTION": "Theme Selection",
+                "LIGHT": "Light",
+                "DARK": "Dark"
+            },
+
+            "DND": "Do not Disturb"
+        },
+
+        "TICKET_ACTIONS": {
+
+            "TITLE": "Ticket Actions",
+            "STATUS_SELECTOR": "Status",
+            "CLOSE_BUTTON": "Close Ticket",
+
+            "CLOSE": {
+                "TITLE": "Close the ticket ?",
+                "DESCRIPTION": "This action will close the ticket for you and the user.\nThis cannot not be undone, the user will have to open a ticket again.",
+                "CONFIRM": "Confirm"
+            }
+        },
+
+        "TICKET_VIEW": {
+            "TITLE": "Opened in regards to: {reason}",
+            "NO_TICKET": "No selected ticket",
+            "LOADING": "Loading Ticket",
+
+            "MESSAGE_PLACEHOLDER": "Write your message here"
+        }
+    },
+    "GAME": {
+        "KEYBIND": {
+            "TICKET": "Open/View your ticket",
+            "STAFFTICKET": "Open Staff/Admin ticket view"
+        }
+    }
+}

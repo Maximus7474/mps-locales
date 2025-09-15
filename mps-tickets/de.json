@@ -1,0 +1,69 @@
+{
+    "UI": {
+        "NEW_TICKET": {
+            "TITLE": "Neues Ticket eröffnen",
+            "DESCRIPTION": "Bitte geben Sie die Details zur Eröffnung Ihres Tickets an.",
+            "SUBJECT": {
+                "TITLE": "Betreff",
+                "PLACEHOLDER": "Ein beschreibender Titel"
+            },
+            "TYPE": {
+                "TITLE": "Typ",
+                "PLACEHOLDER": "Wählen Sie einen Berichtstyp"
+            },
+            "MESSAGE": {
+                "TITLE": "Nachricht:",
+                "PLACEHOLDER": "Beschreiben Sie, was passiert ist oder wobei Sie Hilfe benötigen"
+            },
+            "OPEN_TICKET": "Ticket eröffnen"
+        },
+
+        "TICKET_STAFF_MENU": {
+            "CURRENT_TICKET_COUNT": "Aktuelle Tickets: {count}",
+            "STATUS": "Ticketstatus: {status}",
+            "NAME_FORMAT": "({id}) - {name}",
+            "LABELS": {
+                "TYPE": "Typ:",
+                "STATUS": "Status:",
+                "OWNER": "Besitzer:",
+                "MESSAGE_COUNT": "Nachrichten:",
+                "OPENED": "Eröffnet am:",
+                "LAST_MESSAGE": "Letzte Nachricht:"
+            },
+            "VIEW_TICKET": "Ticket anzeigen",
+
+            "THEME": {
+                "SELECTION": "Thema auswählen",
+                "LIGHT": "Hell",
+                "DARK": "Dunkel"
+            },
+
+            "DND": "Nicht stören"
+        },
+
+        "TICKET_ACTIONS": {
+            "TITLE": "Ticketaktionen",
+            "STATUS_SELECTOR": "Status",
+            "CLOSE_BUTTON": "Ticket schließen",
+
+            "CLOSE": {
+                "TITLE": "Ticket schließen?",
+                "DESCRIPTION": "Diese Aktion schließt das Ticket für Sie und den Benutzer.\nDies kann nicht rückgängig gemacht werden. Der Benutzer muss ein neues Ticket eröffnen.",
+                "CONFIRM": "Bestätigen"
+            }
+        },
+
+        "TICKET_VIEW": {
+            "TITLE": "Geöffnet bezüglich: {reason}",
+            "NO_TICKET": "Kein Ticket ausgewählt",
+            "LOADING": "Ticket wird geladen",
+            "MESSAGE_PLACEHOLDER": "Schreiben Sie Ihre Nachricht hier"
+        }
+    },
+    "GAME": {
+        "KEYBIND": {
+            "TICKET": "Ticket öffnen/ansehen",
+            "STAFFTICKET": "Staff/Admin-Ticketansicht öffnen"
+        }
+    }
+}
