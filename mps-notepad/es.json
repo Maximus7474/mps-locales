@@ -1,0 +1,35 @@
+{
+    "UI": {
+        "LABELS": {
+            "PLACEHOLDER_TEXT": "",
+            "DROP_NOTE": "Dejar nota",
+            "PICKUP_NOTE": "Recoger nota",
+            "GIVE_NOTE": "Dar Nota",
+            "CLOSE": "Cerrar"
+        },
+        "FONTS": {
+            "PATRICK_HAND": "Patrick Hand",
+            "DANCING_SCRIPT": "Dancing Script",
+            "PACIFICO": "Pacifico",
+            "SACRAMENTO": "Sacramento",
+            "COURRIER_NEW": "Courier New",
+            "ARIAL": "Arial"
+        }
+    },
+    "GAME": {
+        "NOTE_TAKEN": "Alguien ha tomado la nota",
+        "OPEN_NOTE": "[E] Abrir nota",
+        "UNABLE_GIVE": "No se puede entregar el objeto",
+        "GIVE_HELPER": "~INPUT_FRONTEND_RDOWN~ para seleccionar\n~INPUT_FRONTEND_RRIGHT~ para cancelar\n~INPUT_FRONTEND_LEFT~ ~INPUT_FRONTEND_RIGHT~ para cambiar destinatario",
+        "NOTE_ITEMNAME": "Nota Rota",
+
+        "LOG_DROPPED_NOTE_TITLE": "%s ha dejado caer una nota",
+        "LOG_DROPPED_NOTE_DESCRIPTION": "Contenido de la nota:\n%s",
+
+        "LOG_GIVEN_NOTE_TITLE": "%s ha dado una nota a %s",
+        "LOG_GIVEN_NOTE_DESCRIPTION": "Contenido de la nota:\n%s",
+
+        "LOG_PICKED_NOTE_TITLE": "%s ha recogido una nota",
+        "LOG_PICKED_NOTE_DESCRIPTION": "Contenido de la nota:\n%s"
+    }
+}

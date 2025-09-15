@@ -1,0 +1,35 @@
+{
+    "UI": {
+        "LABELS": {
+            "PLACEHOLDER_TEXT": "",
+            "DROP_NOTE": "Lascia nota",
+            "PICKUP_NOTE": "Raccogli nota",
+            "GIVE_NOTE": "Dare nota",
+            "CLOSE": "Chiudi"
+        },
+        "FONTS": {
+            "PATRICK_HAND": "Patrick Hand",
+            "DANCING_SCRIPT": "Dancing Script",
+            "PACIFICO": "Pacifico",
+            "SACRAMENTO": "Sacramento",
+            "COURRIER_NEW": "Courier New",
+            "ARIAL": "Arial"
+        }
+    },
+    "GAME": {
+        "NOTE_TAKEN": "Qualcuno ha preso la nota",
+        "OPEN_NOTE": "[E] Apri nota",
+        "UNABLE_GIVE": "Impossibile dare l'oggetto",
+        "GIVE_HELPER": "~INPUT_FRONTEND_RDOWN~ per selezionare\n~INPUT_FRONTEND_RRIGHT~ per annullare\n~INPUT_FRONTEND_LEFT~ ~INPUT_FRONTEND_RIGHT~ per cambiare destinatario",
+        "NOTE_ITEMNAME": "Nota Strappata",
+
+        "LOG_DROPPED_NOTE_TITLE": "%s ha lasciato cadere un appunto",
+        "LOG_DROPPED_NOTE_DESCRIPTION": "Contenuto dell'appunto:\n%s",
+
+        "LOG_GIVEN_NOTE_TITLE": "%s ha dato un appunto a %s",
+        "LOG_GIVEN_NOTE_DESCRIPTION": "Contenuto dell'appunto:\n%s",
+
+        "LOG_PICKED_NOTE_TITLE": "%s ha raccolto un appunto",
+        "LOG_PICKED_NOTE_DESCRIPTION": "Contenuto dell'appunto:\n%s"
+    }
+}

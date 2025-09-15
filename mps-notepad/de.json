@@ -1,0 +1,35 @@
+{
+    "UI": {
+        "LABELS": {
+            "PLACEHOLDER_TEXT": "",
+            "DROP_NOTE": "Notiz ablegen",
+            "PICKUP_NOTE": "Notiz aufheben",
+            "GIVE_NOTE": "Notiz geben",
+            "CLOSE": "Schließen"
+        },
+        "FONTS": {
+            "PATRICK_HAND": "Patrick Hand",
+            "DANCING_SCRIPT": "Dancing Script",
+            "PACIFICO": "Pacifico",
+            "SACRAMENTO": "Sacramento",
+            "COURRIER_NEW": "Courier New",
+            "ARIAL": "Arial"
+        }
+    },
+    "GAME": {
+        "NOTE_TAKEN": "Jemand hat die Notiz genommen",
+        "OPEN_NOTE": "[E] Notiz öffnen",
+        "UNABLE_GIVE": "Unmöglich, das Item zu geben",
+        "GIVE_HELPER": "~INPUT_FRONTEND_RDOWN~ zum Auswählen\n~INPUT_FRONTEND_RRIGHT~ zum Abbrechen\n~INPUT_FRONTEND_LEFT~ ~INPUT_FRONTEND_RIGHT~ zum Ändern des Empfängers",
+        "NOTE_ITEMNAME": "Zerrissene Notiz",
+
+        "LOG_DROPPED_NOTE_TITLE": "%s hat eine Notiz fallen gelassen",
+        "LOG_DROPPED_NOTE_DESCRIPTION": "Inhalt der Notiz:\n%s",
+    
+        "LOG_GIVEN_NOTE_TITLE": "%s hat eine Notiz an %s gegeben",
+        "LOG_GIVEN_NOTE_DESCRIPTION": "Inhalt der Notiz:\n%s",
+    
+        "LOG_PICKED_NOTE_TITLE": "%s hat eine Notiz aufgehoben",
+        "LOG_PICKED_NOTE_DESCRIPTION": "Inhalt der Notiz:\n%s"
+    }
+}
