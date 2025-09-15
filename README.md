@@ -7,13 +7,12 @@ This repository contains all the locale files for the various scripts sold on my
 | Locale       | [mps-tickets](https://maximus-scripts.tebex.io/package/6748250) | [mps-notepad](https://maximus-scripts.tebex.io/package/6431472) | [mps-fleecanow](https://maximus-scripts.tebex.io/package/6947140) |
 |--------------|-------------|-------------|---------------|
 | English (en) | ✅           | ✅           | ✅             |
-| German (de)  | ✅           | ✅           | ❓             |
-| French (fr)  | ✅           | ✅           | ❓             |
-| Spanish (es) | ❓           | ✅           | ❓             |
-| Italian (it) | ❓           | ✅           | ❓             |
+| German (de)  | ✅           | ✅           |              |
+| French (fr)  | ✅           | ✅           |              |
+| Spanish (es) |            | ✅           |              |
+| Italian (it) |            | ✅           |              |
 <!-- end_recap -->
 
 Icon information:
 * ✅ - Up to date
 * ❌ - Incomplete
-* ❓ - Not present
