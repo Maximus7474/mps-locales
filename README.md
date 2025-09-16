@@ -6,13 +6,13 @@ This repository contains all the locale files for the various scripts sold on my
 If you want to contribute to maintaining these locales up to date, please refer to the [Contributing Guidelines](./CONTRIBUTING.md) to maintain a well structured repository.
 
 <!-- start_recap -->
-| Locale       | [mps-tickets](https://maximus-scripts.tebex.io/package/6748250) | [mps-notepad](https://maximus-scripts.tebex.io/package/6431472) | [mps-fleecanow](https://maximus-scripts.tebex.io/package/6947140) |
-|--------------|-------------|-------------|---------------|
-| English (en) | ✅           | ✅           | ✅             |
-| German (de)  | ✅           | ✅           |              |
-| French (fr)  | ✅           | ✅           |              |
-| Spanish (es) |            | ✅           |              |
-| Italian (it) |            | ✅           |              |
+| Locale | [mps-tickets](https://maximus-scripts.tebex.io/package/6748250) | [mps-notepad](https://maximus-scripts.tebex.io/package/6431472) | [mps-fleecanow](https://maximus-scripts.tebex.io/package/6947140) |
+|--------------|--------------|--------------|--------------|
+| German (de) | ✅ | ✅ |  |
+| English (en) | ✅ | ✅ | ✅ |
+| Spanish (es) |  | ✅ |  |
+| French (fr) | ✅ | ✅ | ✅ |
+| Italian (it) |  | ✅ |  |
 <!-- end_recap -->
 
 Icon information:
