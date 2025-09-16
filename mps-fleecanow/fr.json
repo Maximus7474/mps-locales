@@ -1,4 +1,7 @@
 {
+    "BRIDGE": {
+        "REMOVED_MONEY": "Fonds ajoutés à FleecaNow."
+    },
     "UI": {
         "GLOBAL": {
             "LOADING": "Chargement...",
