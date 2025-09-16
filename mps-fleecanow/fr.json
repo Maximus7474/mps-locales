@@ -1,6 +1,7 @@
 {
     "BRIDGE": {
-        "REMOVED_MONEY": "Fonds ajoutés à FleecaNow."
+        "REMOVED_MONEY": "Fonds ajoutés à FleecaNow.",
+        "ADDED_MONEY": "Fonds retirés du compte FleecaNow."
     },
     "UI": {
         "GLOBAL": {
