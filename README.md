@@ -1,7 +1,9 @@
 # Locales repository
 
 This repository contains all the locale files for the various scripts sold on my tebex store.
-<a href="https://maximus-scripts.tebex.io" target="_blank" style="margin: 16px;">maximus-scripts.tebex.io</a>
+<a href="https://maximus-scripts.tebex.io" target="_blank" style="margin: 16px;">maximus-scripts.tebex.io</a>.
+
+If you want to contribute to maintaining these locales up to date, please refer to the [Contributing Guidelines](./CONTRIBUTING.md) to maintain a well structured repository.
 
 <!-- start_recap -->
 | Locale       | [mps-tickets](https://maximus-scripts.tebex.io/package/6748250) | [mps-notepad](https://maximus-scripts.tebex.io/package/6431472) | [mps-fleecanow](https://maximus-scripts.tebex.io/package/6947140) |
