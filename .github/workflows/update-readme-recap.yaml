@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - '*.json'
+      - '**/*.json'
   workflow_dispatch:
 
 jobs:
