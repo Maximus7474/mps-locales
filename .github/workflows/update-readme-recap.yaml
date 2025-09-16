@@ -22,11 +22,6 @@ jobs:
       with:
         node-version: '18'
 
-    - name: Install Dependencies
-      run: |
-        cd .github/scripts
-        npm install
-
     - name: Update ReadMe
       run: |
         node ./.github/scripts/update-recap.js
