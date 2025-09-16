@@ -13,6 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     if: github.repository == 'Maximus7474/mps-locales'
 
+    permissions:
+      contents: write
+
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v3
