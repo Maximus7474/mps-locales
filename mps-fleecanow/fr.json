@@ -30,6 +30,7 @@
         "HISTORY": {
             "TITLE": "Historique du compte",
             "DELETED_USER": "Utilisateur supprimé",
+            "NO_HISTORY": "Aucun historique a affiché",
             "ACTIONS": {
                 "WITHDRAW": "Retrait",
                 "DEPOSIT": "Dépôt",
